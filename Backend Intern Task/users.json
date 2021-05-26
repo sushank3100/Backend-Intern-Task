@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "60acf6395bd8b73854cb7dd5"
+  },
+  "skills": [],
+  "name": "User-2",
+  "email": "user2@gmail.com",
+  "mobile": 8989898899,
+  "password": "$2a$10$bNCOlVyQOKFA6yS09oxYMuIq6J37zmn7IFYTvz3rkADwdgBLSewbe",
+  "date": {
+    "$date": "2021-05-25T13:06:01.593Z"
+  },
+  "education": [],
+  "experience": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ad229c57bce47984fe79e6"
+  },
+  "skills": [],
+  "name": "User-1",
+  "email": "user1@gmail.com",
+  "mobile": 8989898899,
+  "password": "$2a$10$FkoqmJmNeE4QmSTrTLNrT.2BQgAo3C1KVG9Ab9DmGTIxRJ5D91HyK",
+  "date": {
+    "$date": "2021-05-25T16:15:24.737Z"
+  },
+  "education": [],
+  "experience": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ad232957bce47984fe79e7"
+  },
+  "skills": [],
+  "name": "User-3",
+  "email": "user3@gmail.com",
+  "mobile": 8989898899,
+  "password": "$2a$10$3GYtN3fMbR72C32yZOFuledAQ2iwGtTg5vQDDfHpKvqIsbDIeCdkW",
+  "date": {
+    "$date": "2021-05-25T16:17:45.865Z"
+  },
+  "education": [],
+  "experience": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ad236a57bce47984fe79e8"
+  },
+  "skills": [],
+  "name": "User-4",
+  "email": "user4@gmail.com",
+  "mobile": 8989898899,
+  "password": "$2a$10$BpP5dU4oatDz7HM99i8zousIb4E2yHvcBvVeil9t5OkHY2SIIWy0m",
+  "date": {
+    "$date": "2021-05-25T16:18:50.683Z"
+  },
+  "education": [],
+  "experience": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ad2f2157bce47984fe79ef"
+  },
+  "skills": [],
+  "name": "User-5",
+  "email": "user5@gmail.com",
+  "mobile": 8989898899,
+  "password": "$2a$10$0mvAnDEQF5bOSLAnndgsnOYzTstlViNijCV9Xnlof7Al4ZQB.XeHS",
+  "date": {
+    "$date": "2021-05-25T17:08:49.920Z"
+  },
+  "education": [],
+  "experience": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ad2fad57bce47984fe79f1"
+  },
+  "skills": [],
+  "name": "User-6",
+  "email": "user6@gmail.com",
+  "mobile": 8989898899,
+  "password": "$2a$10$W/6egZVlX/kgWubSFApPsezvhZXHMv0FD6FldmY43vVeuKwwjjpbO",
+  "date": {
+    "$date": "2021-05-25T17:11:09.210Z"
+  },
+  "education": [],
+  "experience": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ad338a95d64f7d046b7654"
+  },
+  "skills": [],
+  "name": "User-7",
+  "email": "user7@gmail.com",
+  "mobile": 8989898899,
+  "password": "$2a$10$u8pCa9SAUva446kbgzrH6emxutjGYWyGt0TQnsRCRpfGlsh53R1wq",
+  "date": {
+    "$date": "2021-05-25T17:27:38.377Z"
+  },
+  "education": [],
+  "experience": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ad4df036776770783e5b36"
+  },
+  "skills": [],
+  "name": "User-8",
+  "email": "user8@gmail.com",
+  "mobile": 8989898899,
+  "password": "$2a$10$zoZ/Ekhtqngm/VKzwwnbDOgBcxpCzIiT2TDVH4SZ6q5p5sGDREHyC",
+  "date": {
+    "$date": "2021-05-25T19:20:16.982Z"
+  },
+  "education": [],
+  "experience": [],
+  "__v": 0
+}]

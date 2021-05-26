@@ -1,0 +1,225 @@
+[{
+  "_id": {
+    "$oid": "60ad1f89813f032e408892f4"
+  },
+  "skills": [
+    "HTML,CSS,JAVASCRIPT"
+  ],
+  "numApps": 6,
+  "numAccepted": 2,
+  "duration": 0,
+  "deleted": false,
+  "title": "backend dev",
+  "company": "google",
+  "location": "hyderabad",
+  "jobType": "regular",
+  "ctc": 10,
+  "maxApps": 7,
+  "maxPost": 2,
+  "applyBy": {
+    "$date": "2021-06-09T18:30:00Z"
+  },
+  "recruiter": {
+    "id": {
+      "$oid": "60acfe87c6a37c6bf839bf9e"
+    },
+    "name": "Recruiter-1",
+    "email": "recruiter1@gmail.com"
+  },
+  "postingDate": {
+    "$date": "2021-05-25T16:02:17.493Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ad2147ccb5fb5664a63146"
+  },
+  "skills": [
+    "NodeJs,react,Express"
+  ],
+  "numApps": 0,
+  "numAccepted": 0,
+  "duration": 0,
+  "deleted": true,
+  "title": "frontend dev",
+  "company": "react",
+  "location": "delhi",
+  "jobType": "regular",
+  "ctc": 14,
+  "maxApps": 4,
+  "maxPost": 2,
+  "applyBy": {
+    "$date": "2021-04-04T18:30:00Z"
+  },
+  "recruiter": {
+    "id": {
+      "$oid": "60acfe87c6a37c6bf839bf9e"
+    },
+    "name": "Recruiter-1",
+    "email": "recruiter1@gmail.com"
+  },
+  "postingDate": {
+    "$date": "2021-05-25T16:09:43.022Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ad34a695d64f7d046b7655"
+  },
+  "skills": [
+    "mongoDB,ExpressJs,React,NodeJs"
+  ],
+  "numApps": 0,
+  "numAccepted": 0,
+  "duration": 0,
+  "deleted": false,
+  "title": "fullstack",
+  "company": "instagram",
+  "location": "mumbai",
+  "jobType": "part-time",
+  "ctc": 4,
+  "maxApps": 6,
+  "maxPost": 2,
+  "applyBy": {
+    "$date": "2021-04-05T18:30:00Z"
+  },
+  "recruiter": {
+    "id": {
+      "$oid": "60ad23c157bce47984fe79e9"
+    },
+    "name": "Recruiter-2",
+    "email": "recruiter2@gmail.com"
+  },
+  "postingDate": {
+    "$date": "2021-05-25T17:32:22.401Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ad37f0b1cffc76c4311685"
+  },
+  "skills": [
+    "ML,DL,AI"
+  ],
+  "numApps": 1,
+  "numAccepted": 0,
+  "duration": 0,
+  "deleted": false,
+  "title": "Data Scientist",
+  "company": "Data Lab",
+  "location": "chennai",
+  "jobType": "regular",
+  "ctc": 18,
+  "maxApps": 6,
+  "maxPost": 2,
+  "applyBy": {
+    "$date": "2021-05-26T18:30:00Z"
+  },
+  "recruiter": {
+    "id": {
+      "$oid": "60ad23c157bce47984fe79e9"
+    },
+    "name": "Recruiter-2",
+    "email": "recruiter2@gmail.com"
+  },
+  "postingDate": {
+    "$date": "2021-05-25T17:46:24.729Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ad390fb1cffc76c4311687"
+  },
+  "skills": [
+    "NoSQL,mySQL"
+  ],
+  "numApps": 1,
+  "numAccepted": 0,
+  "duration": 0,
+  "deleted": false,
+  "title": "Database maneger",
+  "company": "Database",
+  "location": "kolkata",
+  "jobType": "regular",
+  "ctc": 7,
+  "maxApps": 6,
+  "maxPost": 3,
+  "applyBy": {
+    "$date": "2021-05-25T18:30:00Z"
+  },
+  "recruiter": {
+    "id": {
+      "$oid": "60ad240957bce47984fe79ea"
+    },
+    "name": "Recruiter-3",
+    "email": "recruiter3@gmail.com"
+  },
+  "postingDate": {
+    "$date": "2021-05-25T17:51:11.645Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ad3985b1cffc76c4311688"
+  },
+  "skills": [
+    "java,rdbms,javasrcipt"
+  ],
+  "numApps": 3,
+  "numAccepted": 0,
+  "duration": 0,
+  "deleted": false,
+  "title": "Code Tester",
+  "company": "Test",
+  "location": "hyderabad",
+  "jobType": "regular",
+  "ctc": 3,
+  "maxApps": 8,
+  "maxPost": 4,
+  "applyBy": {
+    "$date": "2021-05-26T18:30:00Z"
+  },
+  "recruiter": {
+    "id": {
+      "$oid": "60ad240957bce47984fe79ea"
+    },
+    "name": "Recruiter-3",
+    "email": "recruiter3@gmail.com"
+  },
+  "postingDate": {
+    "$date": "2021-05-25T17:53:09.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ad4f7936776770783e5b38"
+  },
+  "skills": [
+    "java,rdbms,javasrcipt"
+  ],
+  "numApps": 0,
+  "numAccepted": 0,
+  "duration": 0,
+  "deleted": true,
+  "title": "Tester",
+  "company": "Test",
+  "location": "hyderabad",
+  "jobType": "regular",
+  "ctc": 1,
+  "maxApps": 1,
+  "maxPost": 4,
+  "applyBy": {
+    "$date": "2021-05-26T18:30:00Z"
+  },
+  "recruiter": {
+    "id": {
+      "$oid": "60ad240957bce47984fe79ea"
+    },
+    "name": "Recruiter-3",
+    "email": "recruiter3@gmail.com"
+  },
+  "postingDate": {
+    "$date": "2021-05-25T19:26:49.791Z"
+  },
+  "__v": 0
+}]

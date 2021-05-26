@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "60acfe87c6a37c6bf839bf9e"
+  },
+  "name": "Recruiter-1",
+  "email": "recruiter1@gmail.com",
+  "password": "$2a$10$5xZrZ.9/bvQP97zZ8P624.O0uOlB/8WoBg5Rl7DS515qQp9.zqmo.",
+  "mobile": 8989898899,
+  "date": {
+    "$date": "2021-05-25T13:41:27.193Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ad23c157bce47984fe79e9"
+  },
+  "name": "Recruiter-2",
+  "email": "recruiter2@gmail.com",
+  "password": "$2a$10$gG8tW8TSpt87jNJZhezNQudsxhWGCOu14Vzmq9o98aOUcU75/kCB.",
+  "mobile": 8989898899,
+  "date": {
+    "$date": "2021-05-25T16:20:17.205Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ad240957bce47984fe79ea"
+  },
+  "name": "Recruiter-3",
+  "email": "recruiter3@gmail.com",
+  "password": "$2a$10$HcjvDxVnXx.eYQ.QZsVpRuL0Yk8qbVulMbuJsJbQTVh34YFmx7hLa",
+  "mobile": 8989898899,
+  "date": {
+    "$date": "2021-05-25T16:21:29.570Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ad4ea536776770783e5b37"
+  },
+  "name": "Recruiter-4",
+  "email": "recruiter4@gmail.com",
+  "password": "$2a$10$V3m3Ll7ZS3865OW4LXatbewoeh85PLFVqQhNeWMO92BfKs/9uGZda",
+  "mobile": 8989898800,
+  "date": {
+    "$date": "2021-05-25T19:23:17.265Z"
+  },
+  "__v": 0
+}]

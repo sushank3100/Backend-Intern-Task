@@ -14,7 +14,7 @@ app.get('/', (req, res) => res.send('API is Live and Running Perfectly'));
 //Define Routes
 app.use('/api/auth', require('./routes/api/auth'));
 
-app.use('/api/home', require('./routes/api/postjob'));
+app.use('/home', require('./routes/api/postjob'));
 app.use('/api/postjob', require('./routes/api/postjob'));
 app.use('/api/users', require('./routes/api/users'));
 app.use('/api/recruiters', require('./routes/api/recruiters'));
